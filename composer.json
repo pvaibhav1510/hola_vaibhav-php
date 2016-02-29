@@ -2,8 +2,8 @@
    "name":"pvaibhav1510/hola_vaibhav-php",
    "type":"library",
    "description":"A test package Hola",
-   "version":"1.3.2",
-   "time":"2016-01-212",
+   "version":"1.0.0",
+   "time":"2016-01-12",
    "authors":[
       {
          "name":"Vaibhav Porwal",
